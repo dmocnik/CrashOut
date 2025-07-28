@@ -1,0 +1,16 @@
+{
+	"id": "DansTweaks",
+	"name": "Dan's Tweaks",
+    "display_name": "DT",
+	"author": ["Dayno"],
+	"description": "Dan's silly tweaks to the game",
+	"prefix": "DansTweaks",
+	"main_file": "DansTweaks.lua",
+	"priority": 0,
+	"badge_colour": "F99900",
+	"badge_text_colour": "FFFFFF",
+	"version": "1.0.0",
+	"dependencies": [
+        "Steamodded (>=1.0.0~)"
+    ]
+}
